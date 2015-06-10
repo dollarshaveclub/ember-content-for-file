@@ -4,7 +4,7 @@
 
 Usage is simple. Inside of your `index.html` of your Ember app, use _ember-content-for-file_ like so:
 
-```html-jinjna
+```html+jinja
 <!DOCTYPE html>
 <html>
 <head>
