@@ -2,7 +2,7 @@
 
 ## Usage
 
-Usage is simple. Inside of your `index.html` of your Ember app, use __ember-content-for-file__ like so:
+Usage is simple. Inside of `index.html`, use __ember-content-for-file__ like so:
 
 ```html+jinja
 <!DOCTYPE html>
