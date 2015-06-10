@@ -2,7 +2,7 @@
 
 ## Usage
 
-Usage is simple. Inside of your `index.html` of your Ember app, use _ember-content-for-file_ like so:
+Usage is simple. Inside of your `index.html` of your Ember app, use __ember-content-for-file__ like so:
 
 ```html+jinja
 <!DOCTYPE html>
@@ -31,7 +31,7 @@ Usage is simple. Inside of your `index.html` of your Ember app, use _ember-conte
 </html>
 ```
 
-_ember-content-for-file_ looks for `content-for` functions which are passed a type prepended with `file:`. This signals to look for the file at that path, and if found, return its contents.
+__ember-content-for-file__ looks for `content-for` functions which are passed a type prepended with `file:`. This signals to look for the file at that path, and if found, return its contents.
 
 Simple and useful.
 
