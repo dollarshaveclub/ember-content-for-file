@@ -1,7 +1,7 @@
 {
   "name": "ember-content-for-file",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.1.0",
+  "description": "Inject files easily using content-for.",
   "directories": {
     "doc": "doc",
     "test": "tests"
