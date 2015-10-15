@@ -12,9 +12,9 @@ Usage is simple. Inside of `index.html`, use __ember-content-for-file__ like so:
 
   <!-- Injected CSS files -->
   <style type="text/css">
-    {{ content-for 'file:path/to/file.css' }}
-    {{ content-for 'file:path/to/foo.css' }}
-    {{ content-for 'file:path/to/bar.css' }}
+    {{content-for 'file:path/to/file.css'}}
+    {{content-for 'file:path/to/foo.css'}}
+    {{content-for 'file:path/to/bar.css'}}
   </style>
 
 </head>
@@ -22,9 +22,9 @@ Usage is simple. Inside of `index.html`, use __ember-content-for-file__ like so:
 
   <!-- Injected JS files -->
   <script>
-    {{ content-for 'file:path/to/file.js' }}
-    {{ content-for 'file:path/to/foo.js' }}
-    {{ content-for 'file:path/to/bar.js' }}
+    {{content-for 'file:path/to/file.js'}}
+    {{content-for 'file:path/to/foo.js'}}
+    {{content-for 'file:path/to/bar.js'}}
   </script>
 
 </body>
