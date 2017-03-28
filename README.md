@@ -1,5 +1,7 @@
 # Ember-content-for-file
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dollarshaveclub/ember-content-for-file.svg)](https://greenkeeper.io/)
+
 ## Usage
 
 Usage is simple. Inside of `index.html`, use __ember-content-for-file__ like so:
